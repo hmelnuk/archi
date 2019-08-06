@@ -1,0 +1,16 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OGP.3. Проектирование, строительство и ликвидация скважин"
+    id="054a05c3-5254-4986-9bd8-2e95a5dd2a8c">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="b749fd5f-b5da-4613-913e-e7a9617d778b"
+      name="OGP. 3. Проектирование, строительство и ликвидация скважин                       "
+      textAlignment="1"
+      fillColor="#fffff4">
+    <bounds
+        width="901"
+        height="493"/>
+  </children>
+</archimate:ArchimateDiagramModel>
