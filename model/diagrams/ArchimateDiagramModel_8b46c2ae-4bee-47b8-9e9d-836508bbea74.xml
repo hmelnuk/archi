@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="E. Exploration Function View"
+    name="E. Exploration Function"
     id="8b46c2ae-4bee-47b8-9e9d-836508bbea74">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -47,28 +47,6 @@
         y="120"
         width="685"
         height="97"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="6760fc87-566d-4f58-a3a1-a1f5dd05fb5c"
-        targetConnections="935c5ac4-8fa6-4261-a25e-9cdc91c314a5">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="62dd69ae-3079-42bd-8788-061c4d905fba"
-          source="6760fc87-566d-4f58-a3a1-a1f5dd05fb5c"
-          target="01e3a663-c97b-4ee7-a1cc-5d1f390602bf">
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_db2b6f60-5d5b-4968-adfe-5a2cb64071f8.xml#db2b6f60-5d5b-4968-adfe-5a2cb64071f8"/>
-      </sourceConnections>
-      <bounds
-          x="12"
-          y="29"
-          width="108"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_a9b1bf98-4bfc-43f7-981a-46e013d41754.xml#a9b1bf98-4bfc-43f7-981a-46e013d41754"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="01e3a663-c97b-4ee7-a1cc-5d1f390602bf"
@@ -125,6 +103,28 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_2a4b0700-c8dc-49b1-b0f1-2467c655f17c.xml#2a4b0700-c8dc-49b1-b0f1-2467c655f17c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="6760fc87-566d-4f58-a3a1-a1f5dd05fb5c"
+        targetConnections="935c5ac4-8fa6-4261-a25e-9cdc91c314a5">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="62dd69ae-3079-42bd-8788-061c4d905fba"
+          source="6760fc87-566d-4f58-a3a1-a1f5dd05fb5c"
+          target="01e3a663-c97b-4ee7-a1cc-5d1f390602bf">
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_db2b6f60-5d5b-4968-adfe-5a2cb64071f8.xml#db2b6f60-5d5b-4968-adfe-5a2cb64071f8"/>
+      </sourceConnections>
+      <bounds
+          x="12"
+          y="30"
+          width="108"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_a9b1bf98-4bfc-43f7-981a-46e013d41754.xml#a9b1bf98-4bfc-43f7-981a-46e013d41754"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
