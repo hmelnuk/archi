@@ -224,7 +224,7 @@
           href="CompositionRelationship_00916774-6838-4d3f-83ea-e255237314dc.xml#00916774-6838-4d3f-83ea-e255237314dc"/>
     </sourceConnections>
     <bounds
-        x="-12"
+        y="36"
         width="1285"
         height="757"/>
     <children
@@ -242,7 +242,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="5ac3bb68-3566-4dae-ba8d-b1cea514b676"
-        name="БЕ Добыча"
+        name="БЕ Добыча и нефтесервисы"
         textAlignment="1"
         fillColor="#fffff2">
       <bounds
