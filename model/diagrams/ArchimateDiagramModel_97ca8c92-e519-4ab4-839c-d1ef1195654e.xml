@@ -1499,17 +1499,6 @@
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_30459f98-d9a3-4334-8a5e-bfada8ff0a93.xml#30459f98-d9a3-4334-8a5e-bfada8ff0a93"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="63509972-7fde-45bf-bdec-ffbf313a05f2"
-        textAlignment="1"
-        content="test">
-      <bounds
-          x="182"
-          y="44"
-          width="185"
-          height="80"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_53e0dfb8-0661-4261-9066-49170619cfc6.xml#53e0dfb8-0661-4261-9066-49170619cfc6"/>
