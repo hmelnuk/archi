@@ -1318,7 +1318,7 @@
           id="c4719a75-9b02-4ec7-a9fc-519c68ca4ccb"
           targetConnections="3afa34f6-4cf9-4ff7-a533-3354d750b278"
           textAlignment="1"
-          fillColor="#feead6">
+          fillColor="#fff4ea">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="e033514b-fd86-4c1d-a8f1-10313308c892"
