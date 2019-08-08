@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Exploration Function-Process-Org"
+    name="1. Exploration Process-Org"
     id="25ab63fb-dc0a-4430-b24a-b7b0d8f25bf0">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -474,7 +474,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="abd77566-5590-451f-8354-d6c9519f533e"
-          targetConnections="0be886ab-f585-4c9e-aef9-34441bc1b559 7207830a-5707-4a6f-85d7-8e0cf25ff077 0dc64bfd-1406-436e-a6c4-6982a9c66ed6 78d74656-6f2f-4bc2-bccd-ce8f2eb0a34f">
+          targetConnections="0be886ab-f585-4c9e-aef9-34441bc1b559 7207830a-5707-4a6f-85d7-8e0cf25ff077">
         <bounds
             x="84"
             y="24"
@@ -1136,7 +1136,9 @@
           id="48df5cb6-e001-4291-b636-104459081c98"
           textAlignment="1"
           fillColor="#c0c0c0"
-          content="Развитие ресурсной базы&#xD;&#xA;">
+          content="Развитие ресурсной базы"
+          textPosition="1"
+          borderType="1">
         <bounds
             x="36"
             y="204"
@@ -1148,7 +1150,9 @@
           id="b2582b1b-9d0f-4a4a-b584-1b8f839547bd"
           textAlignment="1"
           fillColor="#c0c0c0"
-          content="Управление программами разведки и доразведки">
+          content="Управление программами разведки и доразведки"
+          textPosition="1"
+          borderType="1">
         <bounds
             x="360"
             y="204"
@@ -1160,7 +1164,9 @@
           id="e3ccd4c8-e217-405d-b5f4-89d36f7bdea1"
           textAlignment="1"
           fillColor="#c0c0c0"
-          content="Приобретение, изменение, отчуждение контрактов ">
+          content="Приобретение, изменение, отчуждение контрактов "
+          textPosition="1"
+          borderType="1">
         <bounds
             x="732"
             y="204"
@@ -1172,7 +1178,8 @@
           id="9fe77870-74b5-422b-b67d-65d8ed95907e"
           textAlignment="1"
           fillColor="#c0c0c0"
-          content="Контроль выполнения условий контрактов добычи и разведки">
+          content="Контроль выполнения условий контрактов добычи и разведки"
+          borderType="1">
         <bounds
             x="1068"
             y="204"
@@ -1184,7 +1191,8 @@
           id="862a8049-21b0-461d-a136-60e97e141aae"
           textAlignment="1"
           fillColor="#c0c0c0"
-          content="Коммерческая оценка и управление запасами и данными ">
+          content="Коммерческая оценка и управление запасами и данными "
+          borderType="1">
         <bounds
             x="1356"
             y="204"
@@ -1196,7 +1204,8 @@
           id="96c39db5-8d8f-4d10-bbb5-f84e4695a48e"
           textAlignment="1"
           fillColor="#c0c0c0"
-          content="Управление технологиями">
+          content="Управление технологиями"
+          borderType="1">
         <bounds
             x="1668"
             y="204"
@@ -1287,6 +1296,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="c4719a75-9b02-4ec7-a9fc-519c68ca4ccb"
           targetConnections="3afa34f6-4cf9-4ff7-a533-3354d750b278"
+          textAlignment="1"
           fillColor="#feead6">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1504,31 +1514,8 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="9f05acdb-0403-428c-b289-3e3433fc7ad9"
             targetConnections="2f7e0560-c9ef-4002-a31e-4d64bbf68fcf 130e8ea6-60d1-4eb7-9403-5b5d9e74136f bd7718ba-3c7e-4463-a0c6-4420ab0d08bd">
-          <sourceConnections
-              xsi:type="archimate:DiagramModelArchimateConnection"
-              id="0dc64bfd-1406-436e-a6c4-6982a9c66ed6"
-              source="9f05acdb-0403-428c-b289-3e3433fc7ad9"
-              target="abd77566-5590-451f-8354-d6c9519f533e">
-            <bendpoints
-                startX="-174"
-                endX="-150"
-                endY="912"/>
-            <bendpoints
-                startX="-174"
-                startY="-900"
-                endX="-150"
-                endY="12"/>
-            <bendpoints
-                startX="-138"
-                startY="-900"
-                endX="-114"
-                endY="12"/>
-            <archimateRelationship
-                xsi:type="archimate:ServingRelationship"
-                href="ServingRelationship_43291ed0-090b-4571-8243-e9a71d8c6aa0.xml#43291ed0-090b-4571-8243-e9a71d8c6aa0"/>
-          </sourceConnections>
           <bounds
-              x="96"
+              x="132"
               y="12"
               width="217"
               height="61"/>
@@ -1587,7 +1574,8 @@
             id="89fd3114-d6c5-4212-bb60-ff817f07e06d"
             textAlignment="1"
             fillColor="#c0c0c0"
-            content="Выполнение программ разведки и доразведки">
+            content="Выполнение программ разведки и доразведки"
+            borderType="1">
           <bounds
               x="12"
               y="168"
@@ -1784,7 +1772,9 @@
             id="6c3e6452-391a-4eb8-8f55-203e52277eba"
             textAlignment="1"
             fillColor="#c0c0c0"
-            content="Выполнение условий контрактов">
+            content="Выполнение условий контрактов"
+            textPosition="1"
+            borderType="1">
           <bounds
               x="660"
               y="168"
@@ -1826,7 +1816,9 @@
             id="f3650280-76c8-4315-960a-da11e8d92b90"
             textAlignment="1"
             fillColor="#c0c0c0"
-            content="Управление запасами">
+            content="Управление запасами"
+            textPosition="1"
+            borderType="1">
           <bounds
               x="960"
               y="168"
@@ -1838,7 +1830,9 @@
             id="dd24be8c-dd00-45e0-925e-7410d4784dad"
             textAlignment="1"
             fillColor="#c0c0c0"
-            content="Новые технологии">
+            content="Новые технологии"
+            textPosition="1"
+            borderType="1">
           <bounds
               x="1248"
               y="168"
@@ -2032,15 +2026,6 @@
           id="a62bed6a-adcf-4747-aa54-b189641047e0"
           targetConnections="d71f24ef-0318-4061-887c-51139521c4e6 f65ed54d-9f46-477b-ad58-c9be88d4381f dc33992a-1a1b-4498-8cf8-3373c9f5e48d cfa67db5-1c02-41a4-8201-bffa16af9581"
           textPosition="1">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="78d74656-6f2f-4bc2-bccd-ce8f2eb0a34f"
-            source="a62bed6a-adcf-4747-aa54-b189641047e0"
-            target="abd77566-5590-451f-8354-d6c9519f533e">
-          <archimateRelationship
-              xsi:type="archimate:ServingRelationship"
-              href="ServingRelationship_e966d9dc-0f36-4f40-9492-cf7bbd73c623.xml#e966d9dc-0f36-4f40-9492-cf7bbd73c623"/>
-        </sourceConnections>
         <bounds
             x="12"
             y="24"
@@ -2056,7 +2041,8 @@
           textAlignment="1"
           fillColor="#c0c0c0"
           content="Развитие технологий разведки"
-          textPosition="1">
+          textPosition="1"
+          borderType="1">
         <sourceConnections
             id="f65ed54d-9f46-477b-ad58-c9be88d4381f"
             source="62ebbd79-3c24-4393-94bf-fc6054e6e2d5"
@@ -2118,7 +2104,8 @@
           textAlignment="1"
           fillColor="#c0c0c0"
           content="Построение геологической и гидродинамической моделей"
-          textPosition="1">
+          textPosition="1"
+          borderType="1">
         <sourceConnections
             id="cfa67db5-1c02-41a4-8201-bffa16af9581"
             source="ee65230e-7b53-4cb7-839f-431245c4dfeb"
@@ -2195,7 +2182,8 @@
           textAlignment="1"
           fillColor="#c0c0c0"
           content="Инженерно-технологическое сопровождение по направлению Разведка"
-          textPosition="1">
+          textPosition="1"
+          borderType="1">
         <sourceConnections
             id="dc33992a-1a1b-4498-8cf8-3373c9f5e48d"
             source="1a8ba2ca-e279-4f63-bb96-710d037389ca"

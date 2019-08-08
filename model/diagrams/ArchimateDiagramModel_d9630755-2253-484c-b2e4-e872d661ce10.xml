@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3. Technology Function-Process-Org View"
+    name="3. Technology Process-Org"
     id="d9630755-2253-484c-b2e4-e872d661ce10">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -10,7 +10,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Развитие технических компетенций и навыков в БЕ и ДЗО Дивизиона "
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="156"
         y="96"
@@ -24,7 +25,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Планирование инженерно-технического сопровождения "
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="504"
         y="96"
@@ -38,7 +40,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Управление лабораторными услугами"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="864"
         y="96"
@@ -52,7 +55,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Технологии добычи и оптимизации разработки"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="12"
         y="264"
@@ -65,7 +69,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Развитие технологий разработки и добычи"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="46db8651-93c0-41dc-857f-35f43e7bbdcc"
         source="7b53a610-c5b7-40ca-9116-eb223da056cb"
@@ -89,7 +94,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Технологии бурения и ремонтов скважин"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="64c7e65e-815d-430e-b3b9-1ccb1bad1479"
         source="6507788f-5653-49ec-8821-bbf7664e356a"
@@ -116,7 +122,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Развитие технологий в бурении и ТКРС"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="05b9828a-4a1a-4ce9-89ec-e59a15d4a1c2"
         source="44396d06-c825-4a70-93cc-02aab09bf689"
@@ -140,7 +147,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Технологии разведки"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="b6b4e75b-04d4-4eaa-90d5-2738100c3bb9"
         source="317b8111-9d62-44ae-b01f-b79e6f116001"
@@ -184,7 +192,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Развитие технологий разведки"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="684"
         y="324"
@@ -198,7 +207,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Технологии наземной инфраструктуры"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="4b262a7b-fa81-4002-8bf1-78326590fd17"
         source="def6e544-e038-42fa-9237-a485db95d3f5"
@@ -239,7 +249,8 @@
       targetConnections="4b262a7b-fa81-4002-8bf1-78326590fd17"
       textAlignment="1"
       fillColor="#c0c0c0"
-      content="Развитие технологий управления целостностью наземной инфраструктурой&#xD;&#xA;">
+      content="Развитие технологий управления целостностью наземной инфраструктурой&#xD;&#xA;"
+      borderType="1">
     <bounds
         x="1008"
         y="324"
@@ -253,7 +264,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Крупные неоперационные проекты"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="1296"
         y="264"
@@ -266,7 +278,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Инженерно-технологическое сопровождение по направлению Крупные неоперационные проекты&#xD;&#xA;"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="09dd66ea-4b02-4624-bf52-d5be100ff425"
         source="47e22c35-e8a0-4419-be60-bfeb28dc636d"
@@ -415,7 +428,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Инженерно-технологическое сопровождение добычи и разработки"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="bf6c6567-c609-4e8a-9aac-deea3943feab"
         source="c7439c5d-cb79-446f-9bee-6a48c6ca3df3"
@@ -438,7 +452,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Планирование разработки месторождения"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="e441e6ba-2010-4746-81eb-68b037f92228"
         source="e7e435c2-5974-463a-85b6-6891c897df64"
@@ -462,12 +477,13 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Построение геологической и гидродинамической моделей"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="684"
-        y="864"
+        y="858"
         width="277"
-        height="37"/>
+        height="43"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -516,7 +532,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Инженерно-технологическое сопровождение ТОиР объектов наземной инфраструктуры"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="1008"
         y="588"
@@ -529,12 +546,13 @@
       targetConnections="8e9bb830-db06-4874-b697-3938f28f8829"
       textAlignment="1"
       fillColor="#c0c0c0"
-      content="Проектирование/модификация объектов наземной инфраструктуры">
+      content="Проектирование/модификация объектов наземной инфраструктуры"
+      borderType="1">
     <bounds
         x="1008"
-        y="942"
+        y="936"
         width="265"
-        height="37"/>
+        height="43"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -707,7 +725,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Инженерно-технологическое сопровождение бурения и ремонтов скважин"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <sourceConnections
         id="67f2f67e-f311-472b-96cb-a1fa33dd8c78"
         source="aac7e8d5-1679-40b1-bfb1-0188009a09ca"
@@ -867,7 +886,8 @@
       textAlignment="1"
       fillColor="#c0c0c0"
       content="Инженерно-технологическое сопровождение по направлению Разведка"
-      textPosition="1">
+      textPosition="1"
+      borderType="1">
     <bounds
         x="684"
         y="588"
