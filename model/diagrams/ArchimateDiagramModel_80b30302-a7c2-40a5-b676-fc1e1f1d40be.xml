@@ -922,7 +922,7 @@
           borderType="1">
         <bounds
             x="612"
-            y="411"
+            y="336"
             width="241"
             height="25"/>
       </children>
@@ -934,7 +934,7 @@
           textPosition="1">
         <bounds
             x="612"
-            y="435"
+            y="360"
             width="241"
             height="52"/>
         <archimateElement
@@ -949,7 +949,7 @@
           textPosition="1">
         <bounds
             x="612"
-            y="486"
+            y="411"
             width="241"
             height="55"/>
         <archimateElement
@@ -967,7 +967,7 @@
           borderType="1">
         <bounds
             x="612"
-            y="555"
+            y="480"
             width="241"
             height="25"/>
       </children>
@@ -979,7 +979,7 @@
           textPosition="1">
         <bounds
             x="612"
-            y="579"
+            y="504"
             width="241"
             height="55"/>
         <archimateElement
