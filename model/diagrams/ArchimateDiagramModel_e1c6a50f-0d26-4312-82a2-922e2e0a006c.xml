@@ -1,12 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Oil Gas Production model"
+    name="2. EMG OGP model"
     id="e1c6a50f-0d26-4312-82a2-922e2e0a006c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ac055e47-7706-4028-b52a-d3e3587f8458"
-      fillColor="#feeede">
+      fillColor="#e2e2e2">
     <bounds
         x="108"
         y="-828"
@@ -1028,7 +1028,7 @@
         id="5e5f654a-f124-48e1-b4f1-6b3a8154e5a2"
         name="Уровень приложений"
         textAlignment="4"
-        fillColor="#e8ffff"
+        fillColor="#ecffff"
         borderType="1">
       <bounds
           x="12"
@@ -2082,7 +2082,7 @@
           <bendpoints
               startY="144"
               endX="-624"
-              endY="90"/>
+              endY="84"/>
           <bendpoints
               startX="564"
               startY="144"
@@ -2091,6 +2091,29 @@
           <archimateRelationship
               xsi:type="archimate:AssignmentRelationship"
               href="AssignmentRelationship_a8b09b77-7ceb-44eb-9eeb-bc38ebbf106f.xml#a8b09b77-7ceb-44eb-9eeb-bc38ebbf106f"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="fb30b30a-8922-47d8-b014-62f16d9f153b"
+            source="e76dfa5b-ff19-4a22-817f-3eee83d3d662"
+            target="457a85fd-9e51-4445-aaa3-613685424234">
+          <bendpoints
+              startY="144"
+              endX="-624"
+              endY="123"/>
+          <bendpoints
+              startX="504"
+              startY="144"
+              endX="-120"
+              endY="123"/>
+          <bendpoints
+              startX="504"
+              startY="24"
+              endX="-120"
+              endY="3"/>
+          <archimateRelationship
+              xsi:type="archimate:AssignmentRelationship"
+              href="AssignmentRelationship_f178ff9f-d458-4635-9eea-57d8fe3bf970.xml#f178ff9f-d458-4635-9eea-57d8fe3bf970"/>
         </sourceConnections>
         <bounds
             x="12"
@@ -2264,7 +2287,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="457a85fd-9e51-4445-aaa3-613685424234"
-          targetConnections="0aefe792-ac09-4293-bb21-cdc032ad27a3"
+          targetConnections="fb30b30a-8922-47d8-b014-62f16d9f153b"
           textAlignment="1"
           textPosition="2">
         <sourceConnections
@@ -2623,29 +2646,6 @@
           <archimateRelationship
               xsi:type="archimate:CompositionRelationship"
               href="CompositionRelationship_71ade514-eada-4c1d-aef6-1516030af3c5.xml#71ade514-eada-4c1d-aef6-1516030af3c5"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="0aefe792-ac09-4293-bb21-cdc032ad27a3"
-            source="7f85dde4-6f71-4229-8c2f-112cedd9a8dc"
-            target="457a85fd-9e51-4445-aaa3-613685424234">
-          <bendpoints
-              startY="132"
-              endX="-444"
-              endY="114"/>
-          <bendpoints
-              startX="324"
-              startY="132"
-              endX="-120"
-              endY="111"/>
-          <bendpoints
-              startX="324"
-              startY="24"
-              endX="-120"
-              endY="6"/>
-          <archimateRelationship
-              xsi:type="archimate:AssignmentRelationship"
-              href="AssignmentRelationship_ca2b0033-6823-454e-9fd6-a47388a3a8e5.xml#ca2b0033-6823-454e-9fd6-a47388a3a8e5"/>
         </sourceConnections>
         <bounds
             x="192"
