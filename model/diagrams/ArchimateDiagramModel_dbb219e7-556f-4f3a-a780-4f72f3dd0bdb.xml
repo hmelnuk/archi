@@ -2426,6 +2426,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3ab32e55-8dea-4eae-a852-4623e4a59bc1"
       textAlignment="1"
+      fillColor="#ffffb5"
       textPosition="2">
     <bounds
         x="1332"
@@ -2440,7 +2441,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3ee43eff-0615-4ef6-aa7e-435dc9e43cb0"
       textAlignment="1"
-      fillColor="#ffacac"
+      fillColor="#ffffb5"
       textPosition="2">
     <bounds
         x="1332"
