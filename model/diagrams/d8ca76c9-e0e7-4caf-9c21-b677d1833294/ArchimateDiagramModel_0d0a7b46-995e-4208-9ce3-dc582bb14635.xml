@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OS Production Function-Process View"
+    name="OS. Function-Process View"
     id="0d0a7b46-995e-4208-9ce3-dc582bb14635">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -9,7 +9,6 @@
       name="OS"
       textAlignment="1"
       fillColor="#fffff5"
-      textPosition="1"
       borderType="1">
     <bounds
         y="-24"
