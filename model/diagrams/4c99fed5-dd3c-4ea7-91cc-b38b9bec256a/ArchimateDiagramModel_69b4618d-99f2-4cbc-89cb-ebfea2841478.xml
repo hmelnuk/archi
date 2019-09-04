@@ -20,33 +20,6 @@
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="e26e00b3-2ef4-4e59-8c5b-7472df7dfa85"
-          source="7ddb63c4-bcff-4fc1-b7ca-026e93f79cad"
-          target="97f2a831-5b2a-4996-b237-e8a9be91ea72">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_521719c0-cd44-4951-abd4-8f380b33cd78.xml#521719c0-cd44-4951-abd4-8f380b33cd78"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="5f097d04-e4b9-48e7-bb32-699ee4d70f1c"
-          source="7ddb63c4-bcff-4fc1-b7ca-026e93f79cad"
-          target="fd322399-1979-45fe-ae7a-b666a2026089">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_75996ef8-b54e-461b-8941-3d10c9c6f51d.xml#75996ef8-b54e-461b-8941-3d10c9c6f51d"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="55b07a26-7f70-40d6-8ba4-50f2bd2c28e3"
-          source="7ddb63c4-bcff-4fc1-b7ca-026e93f79cad"
-          target="72605a9b-beb4-434b-802b-715b1c2f2b8e">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_78d020d8-4297-499b-a6b5-2afdca2160e3.xml#78d020d8-4297-499b-a6b5-2afdca2160e3"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="964d085b-a0d9-4412-b5c8-eda1787bf051"
           source="7ddb63c4-bcff-4fc1-b7ca-026e93f79cad"
           target="cc390cf8-ce2e-48ee-b03f-8be258ad9b20">
@@ -76,7 +49,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="97f2a831-5b2a-4996-b237-e8a9be91ea72"
-          targetConnections="e26e00b3-2ef4-4e59-8c5b-7472df7dfa85"
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -99,7 +71,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="fd322399-1979-45fe-ae7a-b666a2026089"
-          targetConnections="5f097d04-e4b9-48e7-bb32-699ee4d70f1c 6db223f8-5693-4f97-a7c1-bb601c3d38e4">
+          targetConnections="6db223f8-5693-4f97-a7c1-bb601c3d38e4">
         <bounds
             x="12"
             y="24"
@@ -115,8 +87,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="72605a9b-beb4-434b-802b-715b1c2f2b8e"
-        targetConnections="55b07a26-7f70-40d6-8ba4-50f2bd2c28e3">
+        id="72605a9b-beb4-434b-802b-715b1c2f2b8e">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="c8f0e10e-0197-46f0-b807-b0da9158b682"
@@ -412,8 +383,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="3904bd81-2d71-4a63-8d29-c239308ab181"
-        targetConnections="9fd6e587-0687-4a6e-bc25-173433021fa3">
+        id="3904bd81-2d71-4a63-8d29-c239308ab181">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="20a1a578-4540-48d3-8f20-b1494df54e45"
@@ -480,15 +450,6 @@
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_2504826c-ac9b-45ca-aa71-f6c2b9125bc6.xml#2504826c-ac9b-45ca-aa71-f6c2b9125bc6"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="9fd6e587-0687-4a6e-bc25-173433021fa3"
-          source="ec09db98-db07-4c86-ba7d-2fad82567694"
-          target="3904bd81-2d71-4a63-8d29-c239308ab181">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_d842e593-7c8a-42b4-ac0e-6ad431fdc17e.xml#d842e593-7c8a-42b4-ac0e-6ad431fdc17e"/>
       </sourceConnections>
       <bounds
           x="192"
