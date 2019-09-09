@@ -3648,5 +3648,17 @@
           xsi:type="archimate:Location"
           href="Location_39400d02-08a0-4add-913d-10c04db1f650.xml#39400d02-08a0-4add-913d-10c04db1f650"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="84e8cdef-4e19-4822-9dc4-2db3ef0f84e3">
+      <bounds
+          x="1210"
+          y="1850"
+          width="1246"
+          height="310"/>
+      <archimateElement
+          xsi:type="archimate:Location"
+          href="Location_b919b2ad-251a-42d6-a638-f8693274c0e0.xml#b919b2ad-251a-42d6-a638-f8693274c0e0"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
