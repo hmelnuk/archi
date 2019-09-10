@@ -88,7 +88,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="933229b7-3cdc-4881-a690-19355449992b"
-      name="Разработка"
+      name="Разработка, Бурение, Строительство"
       fillColor="#fffff4"
       borderType="1">
     <bounds
@@ -265,5 +265,16 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_b1c53ebe-9cb1-4e4d-aac8-2aac258d9fe7.xml#b1c53ebe-9cb1-4e4d-aac8-2aac258d9fe7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d69725e4-abc3-4b0f-83d7-4aaa209c5ece"
+      textAlignment="1"
+      content="ISO/TS 16530-2:2014(en)">
+    <bounds
+        x="14"
+        y="26"
+        width="174"
+        height="26"/>
   </children>
 </archimate:ArchimateDiagramModel>
