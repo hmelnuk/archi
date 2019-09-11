@@ -33,8 +33,8 @@
         id="ac7ae76b-c62d-4a28-9bf8-dcbd9664d8a1"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="180"
+          x="700"
+          y="104"
           width="421"
           height="37"/>
       <archimateElement
@@ -46,8 +46,8 @@
         id="5bb0da94-914c-43e2-8334-e54e884bf561"
         textAlignment="1">
       <bounds
-          x="1188"
-          y="240"
+          x="712"
+          y="164"
           width="421"
           height="37"/>
       <archimateElement
@@ -59,8 +59,8 @@
         id="b36870f2-a26b-41e8-9fb5-af51cbdb5e22"
         textAlignment="1">
       <bounds
-          x="1188"
-          y="288"
+          x="712"
+          y="212"
           width="421"
           height="67"/>
       <archimateElement
@@ -72,8 +72,8 @@
         id="0c9f868f-e174-4221-8bee-3eefcd3b31cb"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="372"
+          x="700"
+          y="296"
           width="421"
           height="97"/>
       <archimateElement
@@ -85,8 +85,8 @@
         id="06f15567-3a9e-456c-9cc3-28569496d142"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="480"
+          x="700"
+          y="404"
           width="421"
           height="61"/>
       <archimateElement
@@ -98,8 +98,8 @@
         id="dd5d904e-f2b7-433a-a692-17b524cfd48a"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="552"
+          x="700"
+          y="476"
           width="421"
           height="49"/>
       <archimateElement
@@ -111,8 +111,8 @@
         id="88e64549-f7ca-4d50-bae2-4c1af0fd641a"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="612"
+          x="700"
+          y="536"
           width="421"
           height="61"/>
       <archimateElement
@@ -124,8 +124,8 @@
         id="08ca22b4-b282-4cc3-955d-e549844fbb0c"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="684"
+          x="700"
+          y="608"
           width="421"
           height="49"/>
       <archimateElement
@@ -137,8 +137,8 @@
         id="e2b03a14-b405-4685-8f2c-2b11f22ffa27"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="744"
+          x="700"
+          y="668"
           width="421"
           height="49"/>
       <archimateElement
@@ -150,8 +150,8 @@
         id="ec5bdfed-ea36-4843-bb14-33bc6b754e16"
         textAlignment="1">
       <bounds
-          x="1176"
-          y="804"
+          x="700"
+          y="728"
           width="421"
           height="49"/>
       <archimateElement
