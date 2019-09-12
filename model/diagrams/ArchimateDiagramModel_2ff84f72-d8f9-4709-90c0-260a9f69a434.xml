@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="KMGI.DRM-01"
+    name="KMGI.DRM.Rucovoditel'_departamenta"
     id="2ff84f72-d8f9-4709-90c0-260a9f69a434">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -46,8 +46,8 @@
         id="5bb0da94-914c-43e2-8334-e54e884bf561"
         textAlignment="1">
       <bounds
-          x="712"
-          y="164"
+          x="700"
+          y="150"
           width="421"
           height="37"/>
       <archimateElement
@@ -59,8 +59,8 @@
         id="b36870f2-a26b-41e8-9fb5-af51cbdb5e22"
         textAlignment="1">
       <bounds
-          x="712"
-          y="212"
+          x="700"
+          y="195"
           width="421"
           height="67"/>
       <archimateElement
@@ -73,7 +73,7 @@
         textAlignment="1">
       <bounds
           x="700"
-          y="296"
+          y="276"
           width="421"
           height="97"/>
       <archimateElement
@@ -86,7 +86,7 @@
         textAlignment="1">
       <bounds
           x="700"
-          y="404"
+          y="385"
           width="421"
           height="61"/>
       <archimateElement
@@ -99,7 +99,7 @@
         textAlignment="1">
       <bounds
           x="700"
-          y="476"
+          y="460"
           width="421"
           height="49"/>
       <archimateElement
@@ -112,7 +112,7 @@
         textAlignment="1">
       <bounds
           x="700"
-          y="536"
+          y="525"
           width="421"
           height="61"/>
       <archimateElement
@@ -125,7 +125,7 @@
         textAlignment="1">
       <bounds
           x="700"
-          y="608"
+          y="600"
           width="421"
           height="49"/>
       <archimateElement
@@ -138,7 +138,7 @@
         textAlignment="1">
       <bounds
           x="700"
-          y="668"
+          y="660"
           width="421"
           height="49"/>
       <archimateElement
@@ -151,7 +151,7 @@
         textAlignment="1">
       <bounds
           x="700"
-          y="728"
+          y="720"
           width="421"
           height="49"/>
       <archimateElement
