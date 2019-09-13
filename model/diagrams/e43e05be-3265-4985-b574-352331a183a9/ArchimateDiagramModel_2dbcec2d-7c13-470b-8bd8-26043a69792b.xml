@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENG.DRM"
+    id="2dbcec2d-7c13-470b-8bd8-26043a69792b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b8502e6f-2aeb-4ee4-b5de-60327b1b497a">
+    <bounds
+        x="35"
+        y="185"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_0789a947-4ce9-4d5d-a1ca-a08dc942033c.xml#0789a947-4ce9-4d5d-a1ca-a08dc942033c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
