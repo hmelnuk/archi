@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMG.DZMS"
+    id="80a9d146-2c2a-4fb2-b7f5-3655da8e2196">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="179afa61-042b-461d-a71d-a6d13822a2b1">
+    <bounds
+        x="20"
+        y="95"
+        width="156"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_d18e2937-f5e3-4034-bea2-9559357c0b7a.xml#d18e2937-f5e3-4034-bea2-9559357c0b7a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="449a8507-2c84-4c76-a22c-f52879f0e39d">
+    <bounds
+        x="425"
+        y="98"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_ea566e02-9208-4c26-898a-0986f39b2fc1.xml#ea566e02-9208-4c26-898a-0986f39b2fc1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
