@@ -1260,13 +1260,7 @@
           lineWidth="3"
           source="30d68e14-b4b8-4055-a8a5-e4cc0d527f89"
           target="72aa4a85-b835-4174-b524-39b15a02cab9"
-          type="68">
-        <bendpoints
-            startX="75"
-            startY="8"
-            endX="-2"
-            endY="-67"/>
-      </sourceConnections>
+          type="68"/>
       <bounds
           x="690"
           y="90"
@@ -1292,7 +1286,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="de9aa7f9-4447-44ef-ac9e-bd66ec7fdbd6"
-        targetConnections="50b41e21-8f63-4543-ac07-0357b2cf4905 19198bb5-b468-42a1-88d1-aa8af3abb580 49bad750-fc34-46e6-a1e2-709019315677"
+        targetConnections="50b41e21-8f63-4543-ac07-0357b2cf4905 49bad750-fc34-46e6-a1e2-709019315677 745955f9-bb62-493b-b4ba-7435fee9f003"
         textAlignment="1"
         fillColor="#9cc7c7"
         textPosition="1">
@@ -1333,20 +1327,14 @@
             href="AccessRelationship_d8dfd5d0-6a20-4725-8b6f-fe781fd59089.xml#d8dfd5d0-6a20-4725-8b6f-fe781fd59089"/>
       </sourceConnections>
       <sourceConnections
-          id="19198bb5-b468-42a1-88d1-aa8af3abb580"
+          id="745955f9-bb62-493b-b4ba-7435fee9f003"
           lineWidth="3"
           source="72aa4a85-b835-4174-b524-39b15a02cab9"
           target="de9aa7f9-4447-44ef-ac9e-bd66ec7fdbd6"
-          type="68">
-        <bendpoints
-            startX="148"
-            startY="-2"
-            endX="-31"
-            endY="63"/>
-      </sourceConnections>
+          type="68"/>
       <bounds
-          x="820"
-          y="175"
+          x="855"
+          y="120"
           width="15"
           height="15"/>
       <archimateElement
@@ -1361,8 +1349,8 @@
         textPosition="1"
         borderType="1">
       <bounds
-          x="780"
-          y="189"
+          x="819"
+          y="90"
           width="37"
           height="26"/>
     </children>
@@ -1374,8 +1362,8 @@
         textPosition="1"
         borderType="1">
       <bounds
-          x="840"
-          y="189"
+          x="870"
+          y="90"
           width="37"
           height="26"/>
     </children>
