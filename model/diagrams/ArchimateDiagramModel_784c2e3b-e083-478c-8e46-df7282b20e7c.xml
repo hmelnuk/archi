@@ -1,12 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="KMG. NIITDiB. Org structure"
+    name="KMG.NIITDiB. Org structure"
     id="784c2e3b-e083-478c-8e46-df7282b20e7c">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="08cc9ee5-9ed1-40f9-9c62-7ed47460278e"
-      name="NIITDiB. "
+      name="NIITDiB. НИИ Орг структура"
       textAlignment="1"
       fillColor="#ffffff"
       borderType="1">
